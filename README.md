@@ -1,7 +1,8 @@
 # Initial Setup Of a Container for SteamCMD
 
 Run the following commands
-<pre> (sudo) apt update
+<pre> 
+  (sudo) apt update
   (sudo) apt upgrade
   (sudo) apt install software-properties-common
   (sudo) add-apt-repository multiverse
